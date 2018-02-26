@@ -1,3 +1,2 @@
 # textcomparison
-THis is the README for the textcomparison repository.
-This is a change to readme file
+Here you'll find the Python code for comparing two text files, which have different lines and the different line being extracted.
