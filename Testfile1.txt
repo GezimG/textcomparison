@@ -1,0 +1,4 @@
+This sentence should not shown on the results when running the code. It's in both testing files.
+This sentence is only in the file named Testfile1 and should be shown on results, noting that it exists only on this file.
+
+This sentence should shown from both files noting only for the difference on word between file Testfile1 and Testfile2.
