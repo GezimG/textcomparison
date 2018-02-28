@@ -1,4 +1,4 @@
-## Application code to compare two text files
+# Application code to compare two text files
 **Description**\
 \
 This project is my first on programming career and this project was assigned by my mentor.
@@ -24,8 +24,19 @@ The code uses simple programming logic to run, based on my current coding abilit
  - Python ver 3.0 and up.\
  \
  \
- **TODO for improvement**
+ **TODO: Improvements in the future**\
  Add feature:
  - For file exception, when there is not the appropriate file name found;
  - To compare text by words, meaning to find the "only" different words for similar sentences;
  - To compare >2 files at same time;
+
+
+**Running the tests**
+1. For testing purpose, download two text files, namely: *Textfile1.txt* and *Textfile2.txt*;
+2. Move to the specified location directory as per "How to use";
+3. Open Python and run the code
+4. The results should shown as below:\
+">+ Line-2 This sentence is only in the file named Testfile1 and should be shown on results, noting that it exists only on this file.
+<+ Line-3 This sentence is only in the file named Testfile2 and should be shown on results, noting that it exists only on this file.
+\> Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile1 and Testfile2.
+< Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile2 and Testfile1."
