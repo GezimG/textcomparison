@@ -35,11 +35,12 @@ The code uses simple programming logic to run, based on my current coding abilit
 1. For testing purpose, download two text files, namely: *Textfile1.txt* and *Textfile2.txt*;
 2. Move to the specified location directory as per "How to use";
 3. Open Python and run the code
-4. The results should shown as below:\
-">+ Line-2 This sentence is only in the file named Testfile1 and should be shown on results, noting that it exists only on this file.
+4. The results should shown as below:
+
+* *">+ Line-2 This sentence is only in the file named Testfile1 and should be shown on results, noting that it exists only on this file.
 
 <+ Line-3 This sentence is only in the file named Testfile2 and should be shown on results, noting that it exists only on this file.
 
 \> Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile1 and Testfile2.
 
-< Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile2 and Testfile1."
+< Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile2 and Testfile1."* *
