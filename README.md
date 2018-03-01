@@ -43,4 +43,4 @@ The code uses simple programming logic to run, based on my current coding abilit
 
 >\> Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile1 and Testfile2.
 
->< Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile2 and Testfile1."* *
+>< Line-4 This sentence should shown from both files noting only for the difference on word between file Testfile2 and Testfile1."
